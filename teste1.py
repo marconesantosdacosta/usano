@@ -1,5 +1,5 @@
 print('bom dia' )
 print('vasco da gama')
 print('bom dia vasco da gama')
-print('bom dia vasco da gama bom dia vasco da gama')
 print('hello world')
+print('bom dia vasco da gama bom dia vasco da gama')
