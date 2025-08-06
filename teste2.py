@@ -1,3 +1,1 @@
-print('hello world')
-print('bom dia' )
-print
+print ('fim do teste')
